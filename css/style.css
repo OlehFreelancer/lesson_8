@@ -148,7 +148,7 @@ body {
 	margin: 0 0 15px 0;
 	display: inline-block;
 }
-.main-survey *:last-child{
+.main-survey > *:last-child{
 	margin-bottom: 0;
 }
 .survey-img {
