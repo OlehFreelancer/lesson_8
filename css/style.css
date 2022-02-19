@@ -149,7 +149,7 @@ body {
 	display: inline-block;
 }
 .main-survey *:last-child{
-	margin: 0;
+	margin-bottom: 0;
 }
 .survey-img {
 	display: block;
